@@ -26,7 +26,7 @@ cv:
         highlights:
           - 'GPA: 8.91/10.00'
     projects:
-      - name: '[Order Tracking API](https://github.com/MisbahArthur/CC_OrderTrackingSystem)'
+      - name: '[Order Tracking API](https://youtu.be/lBGugC01qGY?si=fIgPK_IWe1aOFBUO)'
         date:
         start_date:
         end_date: 
@@ -54,7 +54,7 @@ cv:
       - label: Back-end / Databases
         details: Node.js, Express, PostgreSQL, MongoDB.
       - label: Tools
-        details: Figma, Git, Linux, Docker.
+        details: Figma, Git, Linux, Docker, opencode, Claude code.
 design:
   theme: engineeringresumes
   # page:

@@ -17,7 +17,7 @@ Jan 2025 – June 2026
 
 
 # Projects
-## **[Order Tracking API](https://github.com/MisbahArthur/CC_OrderTrackingSystem)**
+## **[Order Tracking API](https://youtu.be/lBGugC01qGY?si=fIgPK_IWe1aOFBUO)**
 
 REST API for tracking order status in inventory pipelines, built with Python and PostgreSQL
 
@@ -48,4 +48,4 @@ A banking application that allows users to manage their accounts, transfer funds
 
 **Back-end / Databases:** Node.js, Express, PostgreSQL, MongoDB.
 
-**Tools:** Figma, Git, Linux, Docker.
+**Tools:** Figma, Git, Linux, Docker, opencode, Claude code.
