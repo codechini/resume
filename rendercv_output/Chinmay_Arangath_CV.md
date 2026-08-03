@@ -1,7 +1,7 @@
 # Chinmay Arangath's CV
 
 - Phone: +91 91522 10163
-- Email: [chinmayvenuarangath@gmail.com](mailto:chinmayvenuarangath@gmail.com)
+- Email: [arangathvenuchinmay@gmail.com](mailto:arangathvenuchinmay@gmail.com)
 - Location: Mumbai, India
 - Website: [codechini.netlify.app](https://codechini.netlify.app/)
 - LinkedIn: [chinmayarangath](https://linkedin.com/in/chinmayarangath)
