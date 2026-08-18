@@ -16,6 +16,21 @@ Jan 2025 – June 2026
 
 
 
+# Experience
+## **Front-end Developer**, TCS -- Bangalore, India
+
+Jan 2025 – Aug 2025
+
+Developed and maintained web applications, focusing on front-end development using React and Node.js.
+
+- Collaborated with cross-functional teams.
+
+- Developed and maintained reusable UI components using React.
+
+- Optimized frontend performance and fixed cross-browser bugs.
+
+
+
 # Projects
 ## **[Order Tracking API](https://youtu.be/lBGugC01qGY?si=fIgPK_IWe1aOFBUO)**
 

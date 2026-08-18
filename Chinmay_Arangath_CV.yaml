@@ -25,6 +25,18 @@ cv:
         summary:
         highlights:
           - 'GPA: 8.91/10.00'
+    Experience:
+      - company: TCS
+        position: Front-end Developer
+        date:
+        start_date: 2025-01
+        end_date: 2025-08
+        location: Bangalore, India
+        summary: Developed and maintained web applications, focusing on front-end development using React and Node.js.
+        highlights:
+          - Collaborated with cross-functional teams.
+          - Developed and maintained reusable UI components using React.
+          - Optimized frontend performance and fixed cross-browser bugs.
     projects:
       - name: '[Order Tracking API](https://youtu.be/lBGugC01qGY?si=fIgPK_IWe1aOFBUO)'
         date:
