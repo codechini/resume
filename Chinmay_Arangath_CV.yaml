@@ -66,7 +66,7 @@ cv:
       - label: Back-end / Databases
         details: Node.js, Express, PostgreSQL, MongoDB.
       - label: Tools
-        details: Figma, Git, Linux, Docker, opencode, Claude code.
+        details: Figma, Git, Linux, Docker.
 design:
   theme: engineeringresumes
   # page:

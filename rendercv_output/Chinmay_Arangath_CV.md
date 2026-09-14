@@ -63,4 +63,4 @@ A banking application that allows users to manage their accounts, transfer funds
 
 **Back-end / Databases:** Node.js, Express, PostgreSQL, MongoDB.
 
-**Tools:** Figma, Git, Linux, Docker, opencode, Claude code.
+**Tools:** Figma, Git, Linux, Docker.
