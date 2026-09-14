@@ -43,7 +43,7 @@ cv:
         start_date:
         end_date: 
         location:
-        summary: RES API for tracking order status in inventory pipelines, built with Python and PostgreSQL
+        summary: REST API for tracking order status in inventory pipelines, built with Python and PostgreSQL
         highlights:
           - Engineered a REST API using Python and PostgreSQL, automating status updates for inventory pipelines.
           - Optimized PostgreSQL database transaction isolation levels, mitigating race conditions during concurrent high-throughput data updates.
