@@ -1,14 +1,14 @@
-name: Render CV
+name: Render and Deploy CV
 
 on:
   push:
-    branches: [ main ] # or master, depending on your default branch name
+    branches: [ main ] # Change to master if your default branch is master
 
 jobs:
-  render:
+  build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grants permission to commit changes back to the repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,12 +24,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install "rendercv[full]"
 
-      - name: Render CV
+      - name: Render CV and standardise filename
         run: |
           rendercv render Chinmay_Arangath_CV.yaml
 
-      - name: Commit and Push Updated CV
+      - name: Commit updated CV back to repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update rendered CV artifacts"
+          commit_message: "auto: update rendered CV output"
           file_pattern: "rendercv_output/*"
