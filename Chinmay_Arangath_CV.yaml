@@ -53,7 +53,7 @@ cv:
         start_date:
         end_date:
         location:
-        summary: A banking application that allows users to manage their accounts, transfer funds, and view transaction history.
+        summary: A Banking Web Application that allows users to manage their accounts, transfer funds, and view transaction history.
         highlights:
           - Designed and normalized a PostgreSQL schema to ensure ACID compliance, reliably handling concurrent transaction flows.
           - Implemented secure user authentication and session management using stateless JSON Web Tokens (JWT).
