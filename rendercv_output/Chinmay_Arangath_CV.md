@@ -34,7 +34,7 @@ Developed and maintained web applications, focusing on front-end development usi
 # Projects
 ## **[Order Tracking API](https://youtu.be/lBGugC01qGY?si=fIgPK_IWe1aOFBUO)**
 
-RESTful API for tracking order status in inventory pipelines, built with Python and PostgreSQL
+REST API for tracking order status in inventory pipelines, built with Python and PostgreSQL
 
 - Engineered a REST API using Python and PostgreSQL, automating status updates for inventory pipelines.
 
