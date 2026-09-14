@@ -46,7 +46,7 @@ REST API for tracking order status in inventory pipelines, built with Python and
 
 ## **[Full-stack Banking Web App](https://github.com/codechini/jeevan_bank_API)**
 
-A banking application that allows users to manage their accounts, transfer funds, and view transaction history.
+A Banking Web Application that allows users to manage their accounts, transfer funds, and view transaction history.
 
 - Designed and normalized a PostgreSQL schema to ensure ACID compliance, reliably handling concurrent transaction flows.
 
